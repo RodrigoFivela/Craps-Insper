@@ -1,4 +1,4 @@
-# Craps-Insper
+# Craps-Insper-Rodrigo Villela
 import random
 #Informações iniciais
 print('Olá, Bem-Vindo ao Craps Insper!')
